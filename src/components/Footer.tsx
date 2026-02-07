@@ -16,7 +16,7 @@ const Footer = () => {
             <Link to="/about" className="hover:text-foreground transition-colors">About</Link>
           </nav>
           <p className="text-xs text-muted-foreground">
-            © 2026 Tech Event. All rights reserved.
+            © 2026 CODE777. All rights reserved.
           </p>
         </div>
       </div>
