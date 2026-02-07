@@ -4,28 +4,28 @@ import { Globe, Twitter, Linkedin } from "lucide-react";
 
 const speakers = [
   {
-    name: "Sarah Chen",
-    role: "Industry Expert – Web Technologies",
-    bio: "Lead Engineer at a major tech company, shaping the future of web frameworks.",
-    initials: "SC",
+    name: "Subbu Sir",
+    role: "Web Development",
+    bio: "Expert in modern web technologies, leading the Web Dev team with hands-on mentorship.",
+    initials: "SS",
   },
   {
-    name: "Dr. James Okafor",
-    role: "AI Researcher",
-    bio: "Published researcher in deep learning with 50+ papers on neural architectures.",
-    initials: "JO",
+    name: "Hasha Reddy",
+    role: "Full Stack Development",
+    bio: "Full stack developer skilled in building end-to-end applications with modern frameworks.",
+    initials: "HR",
   },
   {
-    name: "Maria Santos",
-    role: "Cyber Security Analyst",
-    bio: "Former NSA analyst turned ethical hacker, specializing in zero-day exploits.",
-    initials: "MS",
+    name: "Tanish",
+    role: "AI / ML",
+    bio: "AI and Machine Learning enthusiast driving innovation in intelligent systems.",
+    initials: "TN",
   },
   {
-    name: "Alex Kim",
-    role: "Cloud Architect",
-    bio: "Designed multi-region cloud systems serving billions of requests daily.",
-    initials: "AK",
+    name: "Satwik",
+    role: "Java Backend",
+    bio: "Backend engineer specializing in scalable Java architectures and microservices.",
+    initials: "SW",
   },
 ];
 
@@ -42,7 +42,7 @@ const Speakers = () => {
             <p className="text-primary font-mono text-sm tracking-widest uppercase mb-3">Lineup</p>
             <h1 className="text-4xl md:text-5xl font-bold mb-4">Featured Speakers</h1>
             <p className="text-muted-foreground text-lg">
-              World-class experts sharing cutting-edge insights across every track.
+              Meet the speakers driving each track at Tech Event 2026.
             </p>
           </motion.div>
         </div>

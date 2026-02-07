@@ -14,9 +14,9 @@ const fadeUp = {
 };
 
 const stats = [
-  { icon: Calendar, label: "3 Days", sub: "Jun 15–17, 2026" },
-  { icon: MapPin, label: "San Francisco", sub: "Moscone Center" },
-  { icon: Users, label: "5,000+", sub: "Attendees Expected" },
+  { icon: Calendar, label: "1 Day", sub: "Feb 7, 2026" },
+  { icon: MapPin, label: "KLH Bachupally", sub: "Hyderabad" },
+  { icon: Users, label: "500+", sub: "Attendees Expected" },
 ];
 
 const tracks = [
@@ -47,7 +47,7 @@ const Index = () => {
               variants={fadeUp}
               className="text-primary font-mono text-sm tracking-widest uppercase mb-4"
             >
-              June 15–17, 2026 · San Francisco
+              February 7, 2026 · KLH Bachupally
             </motion.p>
             <motion.h1
               custom={1}
